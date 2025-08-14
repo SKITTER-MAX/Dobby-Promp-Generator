@@ -51,7 +51,5 @@ Enable **MESSAGE CONTENT INTENT** in your bot settings.
 
 ---
 
-## 🚀 Install & Run
-
-### 1) Clone and install
+THANKS FOR READING...
 
