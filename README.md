@@ -55,5 +55,3 @@ Enable **MESSAGE CONTENT INTENT** in your bot settings.
 
 ### 1) Clone and install
 
-```bash
-
