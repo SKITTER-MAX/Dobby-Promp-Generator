@@ -45,7 +45,7 @@ Meet your **Dobby Prompt Generator** — a Discord bot that helps you:
 
 - **Node.js 18+** (includes native `fetch`)  
 - A **Discord Application** with a Bot user (from <https://discord.com/developers/applications>)  
-- A **Fireworks AI API Key** (from <https://app.fireworks.ai>)  
+- A **DOBBY 70B AI API Key** (from <https://app.fireworks.ai>)  
 
 Enable **MESSAGE CONTENT INTENT** in your bot settings.
 
